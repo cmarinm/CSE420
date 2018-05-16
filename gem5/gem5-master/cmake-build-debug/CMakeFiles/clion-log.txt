@@ -1,0 +1,4 @@
+C:\Users\Cesar\.CLion2016.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Cesar/Desktop/CSE420/gem5/gem5-master
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Cesar/Desktop/CSE420/gem5/gem5-master/cmake-build-debug
